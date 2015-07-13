@@ -1,0 +1,43 @@
+<?php
+return [
+    'events' => 'Acara',
+    'my-events' => 'Acaraku',
+    'create-event' => 'Buat Acara',
+    'change-photo-fail' => 'Gagal untuk menyimpan foto',
+    'filter-category' => 'Filter berdasarkan kategori',
+    'create-a-event' => 'Buat Sebuah Acara',
+    'no-event' => 'Belum ada Acara untuk saat ini',
+    'name' => 'Nama Acara',
+    'website' => 'Acara Website',
+    'short-description' => 'Deskripsi Singkat',
+    'type-of-event' => 'Tipe Acara',
+    'you-may-like' => 'Mungkin anda suka',
+    'change-cover' => 'Ubah cover',
+    'delete-event' => 'Hapus Acara',
+    'report-event' => 'Laporkan Acara',
+    'edit-event' => 'Ubah Acara',
+    'change-icon' => 'Ganti Icon',
+    'design-event' => 'Desain Acara',
+    'event-add-error' => "Gagal untuk membuat Acara: Mungkin sudah ada atau info Acara tidak valid",
+    "success" => "Berhasil disimpan",
+    'save-error' => "Error ketika melakukan perubahan",
+
+    //Version 2.0
+    'url' => 'Url Acara',
+    'moderator-roles' => 'Pengguna ini dapat melakukan respon dan menghapus komentar pada Acara ini',
+    'editor-roles' => 'Pengguna ini dapat mengubah Acara, posting Acara administrator dan memoderatori posting dan komentar',
+    'admin-roles' => 'Pengguna ini dapat mengelola semua aspek pada Acara termasuk info Acara, posting sebagai Acara administrator, moderasi posting dan komentar',
+    'make-you-admin' => 'menambahkan kamu sebagai administrator dari ',
+    'make-you-editor' => 'menambahkan kamu sebagai editor dari ',
+    'make-you-moderator' => 'menambahkan kamu sebagai moderator dari ',
+    'event-roles' => 'Kelola hak akses Acara',
+    'admin' => 'Admin',
+    'editor' => 'Editor',
+    'moderator' => 'Moderator',
+    'add-new-admin' => 'Tambah Admin Baru',
+    'add-admin-input' => 'Ketikkan nama temanmu atau orang yang menyukai Acara ini',
+    'save-admin' => 'Simpan Admin',
+    'role' => 'Hak Akses',
+    'invite-friends-placeholder' => 'Undang teman anda untuk like Acara ini'
+
+];

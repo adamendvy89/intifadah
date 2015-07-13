@@ -1,0 +1,25 @@
+<?php
+return [
+  'enable-design-note' => 'Cek kotak diatas jika anda ingin menggunakan spesifikasi desain',
+    'choose-from-theme' => 'Pilih dari tema',
+    'customize-yours' => 'Kostumasi anda',
+    'enable-design' => 'Aktifkan desain',
+    'enable-my-design' => 'Aktifkan spesifikasi desain dibawah',
+    'background-image' => 'Gambar background',
+    'choose-image' => 'Pilih gambar',
+    'choose-image-note' => 'Perhatian: ketika mengubah Gambar background, gambar anda yang lama otomatis terhapus',
+    'background-color' => 'Warna background',
+    'background-position' => 'Posisi background',
+    'background-position-note' => 'Contoh : top center, 60px 20px, top e.t.c',
+    'background-attachment' => 'Penempatan background',
+    'fixed' => 'Fixed',
+    'scroll' => 'Scroll',
+    'background-repeat' => 'Background repeat',
+    'no-repeat' => 'No repeat',
+    'repeat-x' => 'Repeat-x',
+    'repeat-y' => 'Repeat-y',
+    'repeat' => 'Repeat',
+    'link-color' => 'Warna link',
+    'page-content' => 'Konten halaman',
+    'save-design' => 'Simpan desain'
+];
